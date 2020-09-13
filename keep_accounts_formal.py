@@ -3,7 +3,6 @@
 Created on Fri Jun 12 21:10:21 2020
 
 @author: Mingcong Li
-西财老师打分：90/100
 """
 
 
